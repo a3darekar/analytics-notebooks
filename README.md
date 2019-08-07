@@ -10,17 +10,17 @@ Please provide feedback in case suggestions or issues on my [email](mailto:darek
 Index:
 
 1. [Basics](https://github.com/knowhere1998/analytics-notebooks/tree/master/1%20-%20basics)
-	1.1	Learn basics of python libraries - pandas and numpy
-	1.2 Performing statistical analysis on data to find statistical measures like central tendencies, percentiles.
-	1.3 Probabilistic analysis like Probability distribution functions, Corelation, Covariation.
+	1.1	Learn basics of python libraries - pandas and numpy  
+	1.2 Performing statistical analysis on data to find statistical measures like central tendencies, percentiles.  
+	1.3 Probabilistic analysis like Probability distribution functions, Corelation, Covariation.  
 
-2. [Visualization](https://github.com/knowhere1998/analytics-notebooks/tree/master/2%20-%20visualizations)
-	2.1 MatplotLib Demonstration with examples of Line Graph, Pie Chart, Bar Graph, Histogram, Boxplot.
-	2.2 Histogram and Boxplot - Use of iris database to visualize histogram and boxplot using pandas, numpy and MatplotLib
+2. [Visualization](https://github.com/knowhere1998/analytics-notebooks/tree/master/2%20-%20visualizations)  
+	2.1 MatplotLib Demonstration with examples of Line Graph, Pie Chart, Bar Graph, Histogram, Boxplot.  
+	2.2 Histogram and Boxplot - Use of iris database to visualize histogram and boxplot using pandas, numpy and MatplotLib  
 
-3. [Predictive Models using Regression](https://github.com/knowhere1998/analytics-notebooks/tree/master/3%20-%20regression)
-	3.1 Linear Regression
-	3.2 Polynomial Regression
+3. [Predictive Models using Regression](https://github.com/knowhere1998/analytics-notebooks/tree/master/3%20-%20regression)  
+	3.1 Linear Regression  
+	3.2 Polynomial Regression  
 
 How to get started:
 
