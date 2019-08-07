@@ -17,6 +17,11 @@ Index:
 2. [Visualization](https://github.com/knowhere1998/analytics-notebooks/tree/master/2%20-%20visualizations)
 	2.1 MatplotLib Demonstration with examples of Line Graph, Pie Chart, Bar Graph, Histogram, Boxplot.
 	2.2 Histogram and Boxplot - Use of iris database to visualize histogram and boxplot using pandas, numpy and MatplotLib
+
+3. [Predictive Models using Regression](https://github.com/knowhere1998/analytics-notebooks/tree/master/3%20-%20regression)
+	3.1 Linear Regression
+	3.2 Polynomial Regression
+
 How to get started:
 
 - run jupyter server
