@@ -7,10 +7,10 @@ Please watch or star the repository to follow along with me if you are intereste
 
 Please provide feedback in case suggestions or issues on my [email](mailto:darekar.amey@gmail.com).
 
-Index:
+### Index:
 
-1. [Basics](https://github.com/knowhere1998/analytics-notebooks/tree/master/1%20-%20basics)
-	1.1	Learn basics of python libraries - pandas and numpy  
+1. [Basics](https://github.com/knowhere1998/analytics-notebooks/tree/master/1%20-%20basics)  
+	1.1 Learn basics of python libraries - pandas and numpy  
 	1.2 Performing statistical analysis on data to find statistical measures like central tendencies, percentiles.  
 	1.3 Probabilistic analysis like Probability distribution functions, Corelation, Covariation.  
 
@@ -22,9 +22,7 @@ Index:
 	3.1 Linear Regression  
 	3.2 Polynomial Regression  
 
-How to get started:
-
-- run jupyter server
+### How to get started:
 
 - Clone the repository to your system
 
@@ -32,8 +30,6 @@ How to get started:
 git clone https://github.com/knowhere1998/analytics-notebooks/
 
 ```
-
-You can use anaconda/conda instead of following steps
 
 - Create a [Virtual environment](https://realpython.com/python-virtual-environments-a-primer/)(optional but recommended)
 
@@ -56,6 +52,9 @@ $ python3 -m venv env
 source env/bin/activate
 
 ```
+
+You can use anaconda/conda to initialize virtual environment instead of forementioned steps  
+
 
 - install all requirements using pip
 
