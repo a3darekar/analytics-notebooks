@@ -34,26 +34,28 @@ git clone https://github.com/knowhere1998/analytics-notebooks/
 - Create a [Virtual environment](https://realpython.com/python-virtual-environments-a-primer/)(optional but recommended)
 
 
-for Python 2:
-```
-$ virtualenv env
-```
-for Python 3
+	for Python 2:
+	```
+	
+		$ virtualenv env
+	```
+	for Python 3
 
-```
-$ python3 -m venv env
+	```
+	
+		$ python3 -m venv env
 
-```
+	```
 
 - activate your virtual environment.
 
 ```
 
-source env/bin/activate
+	source env/bin/activate
 
 ```
 
-You can use anaconda/conda to initialize virtual environment instead of forementioned steps  
+You can use [anaconda/conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) to initialize virtual environment instead of forementioned steps  
 
 
 - install all requirements using pip
